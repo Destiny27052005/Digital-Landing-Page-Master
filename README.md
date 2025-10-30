@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/digital-bank-landing-page-IWRj5_Q1Ea)
+- Live Site URL: [Add live site URL here](https://digital-landing-page-master-379s.vercel.app/)
 
 ## My process
 
